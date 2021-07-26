@@ -1,0 +1,8 @@
+Till now ,Following things are done-:
+->created four components having .js and .scss files
+1) categoriesBar
+2)header
+3)sidebar
+4)video
+
+-> installed bootstrap using command "npm install bootstrap"
