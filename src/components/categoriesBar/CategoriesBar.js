@@ -1,5 +1,5 @@
 import React from 'react'
-import './categoriesBar.scss'
+import './_categoriesBar.scss'
 
 const CategoriesBar = () => {
     return (
